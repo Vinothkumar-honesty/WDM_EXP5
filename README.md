@@ -1,5 +1,5 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
+
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
@@ -89,5 +89,8 @@ if __name__ == "__main__":
 
 
 ### Output:
+<img width="548" height="243" alt="image" src="https://github.com/user-attachments/assets/c82ac610-c401-4745-9a9a-e97d96ddac87" />
 
 ### Result:
+Thus the implementation for the Information Retrieval Using Boolean Model in Python has been done successfully
+
